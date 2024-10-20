@@ -54,7 +54,7 @@ main {
 .text-container .text-2 {
   color: hsl(0, 0%, 100%);
   font-weight: 400;
-  font-size: 14px;
+  font-size: 13px;
   margin-top: 0;
   margin-bottom: 15px;
 }
@@ -73,7 +73,7 @@ main {
   background-color: hsl(0, 0%, 20%);
   color: hsl(0, 0%, 100%);
   cursor: pointer;
-  width: 250px;
+  width: 260px;
   transition: opacity 0.15s, color 0.15s, background-color 0.15s;
 }
 .buttons-container button:hover {
